@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Delademddk
+- 👋 Hi, I’m @Deladem
 - 👀 I’m interested in learning scratch
 - 🌱 I’m currently learning scratch
 - 💞️ I’m looking to collaborate on ...
