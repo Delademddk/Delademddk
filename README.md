@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deladem
-- 👀 I’m interested in learning scratch
+- 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kegudeladem@gmail.com
